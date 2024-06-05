@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DD'S PROGRAMMING WORLD # the main title
+title: Should be me # the main title
 
-tagline: Incoming Developer # it will display as the sub-title
+tagline: Denise # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My Learning Diary
