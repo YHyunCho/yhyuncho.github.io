@@ -1,7 +1,7 @@
 ---
 title: Basic of Pedal to the Metal and Camera
 date: 2024-06-05 22:31:00 +09:00
-categories: [Unity[Prototype 1]]
+categories: [Unity]
 tags:
   [
     Unity, Game
