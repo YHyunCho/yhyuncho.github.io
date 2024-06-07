@@ -40,9 +40,9 @@ void Update()
 }
 ```
 
-That code was only for keeping the object on the leftside.
-My player can still leave the right side.
-So I fixed some code line.
+That code was only for keeping the object on the leftside.   
+My player can still leave the right side.   
+So I fixed some code line.   
 
 ```c#
 void Update() 
@@ -82,9 +82,9 @@ Launch projectile on spacebar press
 Specifically, they're these series of functions called GetKey, GetKeyDown, GetKeyUp.   
 And so these are all related to your keyboard keys.
 
-If you GetKey, it gets whenever the key is pressed.
-If you GetKeyDown, it's whenever the key is pressed down specifically.
-And KeyUp is whenever you actually let go of that key, it will do that thing.
+If you GetKey, it gets whenever the key is pressed.   
+If you GetKeyDown, it's whenever the key is pressed down specifically.   
+And KeyUp is whenever you actually let go of that key, it will do that thing.   
 
 So for now, I'll do GetKeyDown so that way it's really instant.
 
