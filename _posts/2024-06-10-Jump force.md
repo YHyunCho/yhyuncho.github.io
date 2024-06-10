@@ -1,6 +1,6 @@
 ---
 title: Jump force
-date: 2024-06-10 13:00:00 +09:00
+date: 2024-06-10 14:46:00 +09:00
 categories: [Unity]
 tags:
   [
@@ -13,7 +13,7 @@ How to make player jump at start?
 *****
 
 If you want to actually control the movement and the Gravity of the player, and all of that, you actually need to use a new way to get a Component for your "Rigidbody".   
-Because RidgidBodies aren/t something that are automatically on other GameObject versus somthing like a Transform, which is always on GameObject.    
+Because RidgidBodies aren't something that are automatically on other GameObject versus somthing like a Transform, which is always on GameObject.    
 
 So in your PlayerController Script, you need to create a variable.
 
@@ -116,7 +116,7 @@ First, let's make a variable.
 ```c#
 private Rigidbody playerRb;
 public float jumpForce = 10;
-
+public float gravityModifier = 4;
 ```
 
 And I'll type like this.
