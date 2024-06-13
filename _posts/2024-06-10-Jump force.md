@@ -1,5 +1,5 @@
 ---
-title: Jump force
+title: Jump Force
 date: 2024-06-10 14:46:00 +09:00
 categories: [Unity]
 tags:

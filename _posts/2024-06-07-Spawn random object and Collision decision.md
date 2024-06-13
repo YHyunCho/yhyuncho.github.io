@@ -1,5 +1,5 @@
 ---
-title: Spawn random object and Collision decision
+title: Spawn Random Object and Collision Decision
 date: 2024-06-07 11:54:00 +09:00
 categories: [Unity]
 tags:
