@@ -1,5 +1,5 @@
 ---
-title: Take Control of the Object Speed and Movement
+title: "[Prototype 1] Take Control of the Object Speed and Movement"
 date: 2024-06-06 06:31:00 +09:00
 categories: [Unity]
 tags:

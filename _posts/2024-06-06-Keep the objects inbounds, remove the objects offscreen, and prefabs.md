@@ -1,5 +1,5 @@
 ---
-title: Keep the Objects Inbounds, Remove the Objects Offscreen, and Prefabs
+title: "[Prototype 2] Keep the Objects Inbounds, Remove the Objects Offscreen, and Prefabs"
 date: 2024-06-06 11:54:00 +09:00
 categories: [Unity]
 tags:

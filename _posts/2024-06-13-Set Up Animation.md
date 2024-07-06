@@ -1,5 +1,5 @@
 ---
-title: Set Up Animations
+title: "[Prototype 3] Set Up Animations"
 date: 2024-06-15 11:31:00 +09:00
 categories: [Unity]
 tags:
