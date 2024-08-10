@@ -8,8 +8,6 @@ tags:
   ]
 ---
 
-![Alt text](/assets/img/posts/UnityProject/FlyingFish/썸네일.png)
-
 Hey everyone!
 
 Wow, it’s been two months since I started learning Unity. Time flies, doesn’t it?
@@ -22,7 +20,7 @@ You can play my project using this link. Please note that it’s only playable o
 
 [Go to play Flyin' Fish 'n' Fowl](https://play.unity.com/en/games/30480856-c2c6-417d-9c81-09af4b489ca0/flyin-fish-n-fowl)
 
-![Alt text](/assets/img/posts/UnityProject/FlyingFish/HowToplay.png)
+![Alt text](/assets/img/posts/UnityProject/FlyingFish/썸네일.png)
 
 Now, let me explain how I programmed it.
 
@@ -88,9 +86,9 @@ Everything else is up to you! Here are a few suggestions for inspiration:
 
 *****
 
-To be honest, I had no idea what to do at first. The song "It’s Raining Men" kept playing in my head—LOL! So, I called a friend for her opinion, and she suggested a game concept involving squirrels dropping nuts. I thought it was a great idea, so I started designing my game based on her suggestion.
+To be honest, I had no idea what to do at first. The song "It’s Raining Men" kept playing in my head LOL So, I called my friend for her opinion, and she suggested a game concept involving squirrels dropping nuts. I thought it was a great idea, so I started designing my game based on her suggestion.
 
-Thanks to SeongEun!
+Thanks to SeongEun😘
 
 It’s quite a simple concept, right?
 
