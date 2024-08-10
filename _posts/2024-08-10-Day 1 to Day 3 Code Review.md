@@ -8,6 +8,8 @@ tags:
   ]
 ---
 
+![Alt text](/assets/img/posts/UnityProject/FlyingFish/썸네일.png)
+
 Hey everyone!
 
 Wow, it’s been two months since I started learning Unity. Time flies, doesn’t it?
@@ -20,7 +22,7 @@ You can play my project using this link. Please note that it’s only playable o
 
 [Go to play Flyin' Fish 'n' Fowl](https://play.unity.com/en/games/30480856-c2c6-417d-9c81-09af4b489ca0/flyin-fish-n-fowl)
 
-![Alt text](/assets/img/posts/UnityProject/FlyingFish/썸네일.png)
+![Alt text](/assets/img/posts/UnityProject/FlyingFish/HowToplay.png)
 
 Now, let me explain how I programmed it.
 
