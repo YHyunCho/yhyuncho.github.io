@@ -246,7 +246,7 @@ public class FallingObjectController : MonoBehaviour
 }
 ```
 
-I was frustrated because the OnCollisionEnter method wasn’t working for the objects that were spawned, meaning it wasn’t being triggered for prefabs when they were instantiated. However, it worked for objects that were already in the Hierarchy. Also instead of being destroyed, the objects seemed to disappear completely upon collision with the ground.
+I was frustrated because the OnCollisionEnter method wasn’t working for the objects that were spawned, meaning it wasn’t being triggered for prefabs when they were instantiated. However, it worked for objects that were already in the Hierarchy. 
 
 After several hours of searching Google, I found that other people had encountered the same issue, and many had not found a solution. I eventually came across a comment in the Unity forums suggesting the use of ```OnTriggerEnter()``` instead. I replaced ```OnCollisionEnter()``` with ```OnTriggerEnter()```, and surprisingly, it worked as intended.
 
@@ -342,10 +342,6 @@ public class GameManager : MonoBehaviour
 
 I just realized that I should have used a Dictionary instead of an array. It would have made things much easier😂
 
-Anyway in the previous Spawn Manager, I used ```InvokeRepeating()```, but this time I switched to using coroutines. The reason for this change is that coroutines allow me to save the current state of the game, which is important for future updates. Although there’s nothing to save at the moment, I plan to add code like ```while (isGameActive)``` later on.
-
-For example, if you use ```while (isGameActive)``` inside InvokeRepeating(), and ```bool isGameActive``` remains true, the loop will run indefinitely because ```InvokeRepeating()``` can't handle state changes effectively. Coroutines, on the other hand, can manage this situation more gracefully.
-
 ### 2) Give the bird a forward motion
 
 I created a new Script for the bird called FlightOfBird. Very kindly, the bird asset includes all the necessary animations, so I utilized those directly. I also made the bird to move forward and to destroy the bird object when it leaves the screen.
@@ -377,7 +373,6 @@ public class FlightOfBird : MonoBehaviour
 
 I needed the bird to drop fish, so I added the fish spawning functionality directly into the FlightOfBird script, not the Game Manager.
 
-This is where using a coroutine instead of ```InvokeRepeating()``` becomes important. Since the fish's position needs to be relative to the bird's current position, it's crucial to save the bird's position every frame. Coroutines are ideal for this as they allow for continuous updates. 
 
 ```c#
 public class FlightOfBird : MonoBehaviour
