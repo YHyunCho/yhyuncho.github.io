@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 4] Make Camera Watch Where You're Going"
 date: 2024-07-06 18:30:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

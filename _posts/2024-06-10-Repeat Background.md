@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 3] Repeat Background and Game Over Trigger"
 date: 2024-06-13 09:00:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

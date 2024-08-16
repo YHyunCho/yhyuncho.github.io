@@ -1,7 +1,7 @@
 ---
 title: "[Challenge 4] Soccer Scripting"
 date: 2024-07-08 12:05:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

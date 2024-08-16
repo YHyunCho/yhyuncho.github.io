@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 3] Set Up Animations"
 date: 2024-06-15 11:31:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

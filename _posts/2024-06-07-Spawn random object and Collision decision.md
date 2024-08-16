@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 2] Spawn Random Object and Collision Decision" 
 date: 2024-06-07 11:54:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

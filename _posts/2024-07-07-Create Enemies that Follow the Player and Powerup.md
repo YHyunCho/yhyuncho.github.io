@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 4] Create Enemies that Follow the Player and Powerup"
 date: 2024-07-07 16:15:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

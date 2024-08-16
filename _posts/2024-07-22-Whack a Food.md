@@ -1,7 +1,7 @@
 ---
 title: "[Challenge 5] Whack-a-Food"
 date: 2024-07-22 12:12:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game

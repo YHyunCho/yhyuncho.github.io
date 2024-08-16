@@ -1,10 +1,10 @@
 ---
 title: "[Prototype 1] Basic of Pedal to the Metal and Camera"
 date: 2024-06-05 22:31:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
-    Unity, Game
+    Unity L, Game
   ]
 ---
 

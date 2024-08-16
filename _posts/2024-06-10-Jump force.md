@@ -1,7 +1,7 @@
 ---
 title: "[Prototype 3] Jump Force"
 date: 2024-06-10 14:46:00 +09:00
-categories: [Unity]
+categories: [Unity Learn, Practical Programming]
 tags:
   [
     Unity, Game
